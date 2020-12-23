@@ -49,7 +49,7 @@ return (
 
 return (
     <div>
-        <Selected features={features} />
+        {features} 
     </div>
     
 )
